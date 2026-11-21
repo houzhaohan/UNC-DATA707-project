@@ -1,0 +1,12 @@
+[
+  {"station_id":"place-alfcl","station_name":"Alewife","avg_dwell_time_seconds":9133.50},
+  {"station_id":"place-unsqu","station_name":"Union Square","avg_dwell_time_seconds":4919.54},
+  {"station_id":"place-ogmnl","station_name":"Oak Grove","avg_dwell_time_seconds":4449.79},
+  {"station_id":"place-forhl","station_name":"Forest Hills","avg_dwell_time_seconds":4063.92},
+  {"station_id":"place-bomnl","station_name":"Bowdoin","avg_dwell_time_seconds":3947.30},
+  {"station_id":"place-brntn","station_name":"Braintree","avg_dwell_time_seconds":3795.24},
+  {"station_id":"place-mdftf","station_name":"Medford/Tufts","avg_dwell_time_seconds":3315.25},
+  {"station_id":"place-hsmnl","station_name":"Heath Street","avg_dwell_time_seconds":2547.25},
+  {"station_id":"place-wondl","station_name":"Wonderland","avg_dwell_time_seconds":2173.12},
+  {"station_id":"place-river","station_name":"Riverside","avg_dwell_time_seconds":1759.15}
+]

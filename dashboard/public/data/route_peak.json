@@ -1,0 +1,18 @@
+[
+  {"route_id":"Red","period_type":"Peak","total_records":355049,"total_trips":13094,"avg_dwell_time_seconds":62.71,"avg_headway_seconds":410.09},
+  {"route_id":"Green-B","period_type":"Off-Peak","total_records":887271,"total_trips":48561,"avg_dwell_time_seconds":57.88,"avg_headway_seconds":495.44},
+  {"route_id":"Green-D","period_type":"Off-Peak","total_records":1079495,"total_trips":77744,"avg_dwell_time_seconds":56.92,"avg_headway_seconds":443.71},
+  {"route_id":"Blue","period_type":"Off-Peak","total_records":630123,"total_trips":18598,"avg_dwell_time_seconds":53.06,"avg_headway_seconds":457.10},
+  {"route_id":"Mattapan","period_type":"Off-Peak","total_records":281695,"total_trips":6993,"avg_dwell_time_seconds":20.45,"avg_headway_seconds":725.90},
+  {"route_id":"Orange","period_type":"Peak","total_records":444149,"total_trips":7207,"avg_dwell_time_seconds":55.51,"avg_headway_seconds":302.62},
+  {"route_id":"Green-C","period_type":"Peak","total_records":242906,"total_trips":14600,"avg_dwell_time_seconds":58.74,"avg_headway_seconds":412.43},
+  {"route_id":"Green-E","period_type":"Peak","total_records":325821,"total_trips":12675,"avg_dwell_time_seconds":60.19,"avg_headway_seconds":404.10},
+  {"route_id":"Blue","period_type":"Peak","total_records":269881,"total_trips":4360,"avg_dwell_time_seconds":52.48,"avg_headway_seconds":299.97},
+  {"route_id":"Green-D","period_type":"Peak","total_records":319474,"total_trips":22416,"avg_dwell_time_seconds":63.14,"avg_headway_seconds":404.66},
+  {"route_id":"Red","period_type":"Off-Peak","total_records":1067258,"total_trips":46259,"avg_dwell_time_seconds":57.76,"avg_headway_seconds":481.92},
+  {"route_id":"Green-B","period_type":"Peak","total_records":274896,"total_trips":13143,"avg_dwell_time_seconds":62.11,"avg_headway_seconds":446.39},
+  {"route_id":"Green-E","period_type":"Off-Peak","total_records":1056274,"total_trips":49407,"avg_dwell_time_seconds":55.11,"avg_headway_seconds":451.03},
+  {"route_id":"Mattapan","period_type":"Peak","total_records":119266,"total_trips":2682,"avg_dwell_time_seconds":22.29,"avg_headway_seconds":452.14},
+  {"route_id":"Orange","period_type":"Off-Peak","total_records":1206025,"total_trips":24137,"avg_dwell_time_seconds":52.65,"avg_headway_seconds":391.82},
+  {"route_id":"Green-C","period_type":"Off-Peak","total_records":799291,"total_trips":53260,"avg_dwell_time_seconds":54.52,"avg_headway_seconds":454.76}
+]

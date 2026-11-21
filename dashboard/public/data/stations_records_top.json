@@ -1,0 +1,12 @@
+[
+  {"station_id":"place-pktrm","station_name":"Park Street","total_records":289021,"total_trips":73395},
+  {"station_id":"place-gover","station_name":"Government Center","total_records":288686,"total_trips":68918},
+  {"station_id":"place-boyls","station_name":"Boylston","total_records":205248,"total_trips":36253},
+  {"station_id":"place-armnl","station_name":"Arlington","total_records":204322,"total_trips":34915},
+  {"station_id":"place-coecl","station_name":"Copley","total_records":202862,"total_trips":34331},
+  {"station_id":"place-north","station_name":"North Station","total_records":194334,"total_trips":47075},
+  {"station_id":"place-haecl","station_name":"Haymarket","total_records":192292,"total_trips":45262},
+  {"station_id":"place-dwnxg","station_name":"Downtown Crossing","total_records":165219,"total_trips":61000},
+  {"station_id":"place-kencl","station_name":"Kenmore","total_records":158445,"total_trips":33899},
+  {"station_id":"place-state","station_name":"State","total_records":158124,"total_trips":38377}
+]

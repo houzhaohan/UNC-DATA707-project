@@ -1,0 +1,4 @@
+[
+  {"period_type":"Off-Peak","total_records":7007432,"total_trips":316619,"total_stops":277,"avg_dwell_time_seconds":54.26,"avg_headway_seconds":461.12,"avg_travel_time_seconds":84.63},
+  {"period_type":"Peak","total_records":2351442,"total_trips":87691,"total_stops":277,"avg_dwell_time_seconds":57.62,"avg_headway_seconds":381.54,"avg_travel_time_seconds":84.69}
+]

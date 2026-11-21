@@ -1,0 +1,67 @@
+[
+  {
+    "analysis_route_id": "Green",
+    "route_name": "Green Line",
+    "total_records": 4985428,
+    "total_trips": 274945,
+    "total_stops": 149,
+    "avg_travel_time_seconds": 87.96,
+    "avg_dwell_time_seconds": 57.32,
+    "avg_headway_trunk_seconds": 449.72,
+    "avg_headway_branch_seconds": 606.01,
+    "avg_travel_time_minutes": 1.47,
+    "avg_dwell_time_minutes": 0.96
+  },
+  {
+    "analysis_route_id": "Orange",
+    "route_name": "Orange Line",
+    "total_records": 1650174,
+    "total_trips": 28560,
+    "total_stops": 42,
+    "avg_travel_time_seconds": 59.27,
+    "avg_dwell_time_seconds": 53.42,
+    "avg_headway_trunk_seconds": 367.66,
+    "avg_headway_branch_seconds": null,
+    "avg_travel_time_minutes": 0.99,
+    "avg_dwell_time_minutes": 0.89
+  },
+  {
+    "analysis_route_id": "Red",
+    "route_name": "Red Line",
+    "total_records": 1422307,
+    "total_trips": 54279,
+    "total_stops": 48,
+    "avg_travel_time_seconds": 113.77,
+    "avg_dwell_time_seconds": 59.00,
+    "avg_headway_trunk_seconds": 463.81,
+    "avg_headway_branch_seconds": 736.62,
+    "avg_travel_time_minutes": 1.90,
+    "avg_dwell_time_minutes": 0.98
+  },
+  {
+    "analysis_route_id": "Blue",
+    "route_name": "Blue Line",
+    "total_records": 900004,
+    "total_trips": 21555,
+    "total_stops": 24,
+    "avg_travel_time_seconds": 78.10,
+    "avg_dwell_time_seconds": 52.89,
+    "avg_headway_trunk_seconds": 409.48,
+    "avg_headway_branch_seconds": null,
+    "avg_travel_time_minutes": 1.30,
+    "avg_dwell_time_minutes": 0.88
+  },
+  {
+    "analysis_route_id": "Mattapan",
+    "route_name": "Mattapan Trolley",
+    "total_records": 400961,
+    "total_trips": 9368,
+    "total_stops": 16,
+    "avg_travel_time_seconds": 60.53,
+    "avg_dwell_time_seconds": 20.99,
+    "avg_headway_trunk_seconds": 643.97,
+    "avg_headway_branch_seconds": null,
+    "avg_travel_time_minutes": 1.01,
+    "avg_dwell_time_minutes": 0.35
+  }
+]

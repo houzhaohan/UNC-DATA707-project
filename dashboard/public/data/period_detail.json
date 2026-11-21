@@ -1,0 +1,5 @@
+[
+  {"period_detail":"Morning Peak","total_records":1188896,"total_trips":44278,"avg_dwell_time_seconds":55.62,"avg_headway_seconds":377.51},
+  {"period_detail":"Off-Peak","total_records":7007432,"total_trips":316619,"avg_dwell_time_seconds":54.26,"avg_headway_seconds":461.12},
+  {"period_detail":"Evening Peak","total_records":1162546,"total_trips":43423,"avg_dwell_time_seconds":59.67,"avg_headway_seconds":385.66}
+]
