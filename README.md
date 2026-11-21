@@ -232,14 +232,14 @@ The most relevant monitoring for this pipeline is **data-quality monitoring** an
 
 ## Contact Us
 
-**Zhaohan Hou**
-School of Data and Information Sciences
-University of North Carolina at Chapel Hill
-Chapel Hill, NC 27514
-[houzh@unc.edu](mailto:houzh@unc.edu)
+**Zhaohan Hou**  
+School of Data and Information Sciences  
+University of North Carolina at Chapel Hill  
+Chapel Hill, NC 27514  
+[houzh@unc.edu](mailto:houzh@unc.edu)  
 
-**Jiaxin Wang**
-School of Data and Information Sciences
-University of North Carolina at Chapel Hill
-Chapel Hill, NC 27514
-[jwang3@unc.edu](mailto:jwang3@unc.edu)
+**Jiaxin Wang**  
+School of Data and Information Sciences  
+University of North Carolina at Chapel Hill  
+Chapel Hill, NC 27514  
+[jwang3@unc.edu](mailto:jwang3@unc.edu)  
